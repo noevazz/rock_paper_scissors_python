@@ -1,6 +1,6 @@
 # Rock Paper and Scissors
 
-An implemetation of the classic game using Python\
+An implemetation of the classic game using Python
 
 ```
    -> Your option [rock, paper. scissors]: paper
